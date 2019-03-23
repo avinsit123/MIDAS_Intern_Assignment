@@ -6,6 +6,7 @@ Contains assignment for summer intern at Midas Lab,IIITD
 ## Directory Structure
 
 ```terminal
+.
 ├── CV_Problem
 │   ├── MIDAS_CV_TASK.ipynb
 │   ├── Vision_task_dataset_public
@@ -17,7 +18,10 @@ Contains assignment for summer intern at Midas Lab,IIITD
 │   └── clothes_1_2.pt
 └── Python\ Problem
     ├── MIDAS_Assignment.ipynb
+    ├── MIDAS_TWEETS.csv
     └── tweets.jsonl
+
+
 ```
 
 ## Codebase
